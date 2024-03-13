@@ -1,12 +1,13 @@
-# RoomReverse
 ## 1. Introdução
+
 ### 1.1. Propósito do Documento de Requisitos
-Exemplo de um texto padrão:
-Esse documento tem o objetivo de detalhar os requisitos dos usuários que deverão ser atendidos
-pelo sistema a ser construído nesse projeto. Ele servirá como base para a construção do sistema
-por parte dos desenvolvedores.
-Aqui estará presente uma descrição detalhada das funções do produto, de suas interfaces e do
-comportamento esperado do sistema.
+Essa documentação tem como o objetivo simplificar e otimizar o processo de reserva de acomodações para os hospede, proporcionando uma experiência de reserva eficiente e conveniente. Este trabalho de desenvolvimento de software visa cria uma plataforma intuitiva e acessível, que permita aos usuários pesquisar, verificar disponibilidade, selecionar e reserva quartos de hotel de forma fácil e segura.
+
+O site(Software) consta, informações sobre o produto e suas funções detalhadas sobre sua interface e seu funcionamento em seu comportamento.
+
 ### 1.2. Público Alvo
-Este documento se destina aos arquitetos de software, engenheiros de software e
-testadores, &lt;incluir outros stakeholders&gt;.
+ O público alvo pode incluir Agencia de viagens, organizadores de eventos, turistas, proprietário de hotel e empreendedores.
+
+### 1.3. 
+
+Exemplos:
