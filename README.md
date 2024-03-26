@@ -71,6 +71,8 @@ Relacionamentos e Análise
 - Tratamento diferenciado da Unidade de Belo Horizonte no agendamento e localização das salas, já que isso não está dentro do escopo deste projeto e não se aplica a todas as unidades
 
 
+| 1 |2 | 3|
+|A | B | c|
 
 
 ### 3.1 
