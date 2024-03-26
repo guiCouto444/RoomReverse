@@ -74,6 +74,7 @@ Relacionamentos e Análise
 
 
 ### 3.1 
-| FORMATO       |
+| REF 12   |
 | --------------------- |
+| O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos |
 
