@@ -92,3 +92,15 @@ Relacionamentos e Análise
  |8. |**Gerenciamento de estoque**: Deve controlar com precisão o estoque de quartos disponíveis e impedir reservas além da capacidade do hotel.
  |9. |**Política de cancelamento**: Deve incluir uma política clara de cancelamento e reembolso para garantir a satisfação do cliente e evitar disputas.
  | 10. | **Conformidade regulatória**: Deve cumprir todas as regulamentações e leis locais e internacionais relacionadas à reserva de hotéis e proteção de dados.
+
+ ### 3.5. Restrições de Hardware e Software
+ 
+|n | Descrição|
+|....|........|
+|1 | Só podem ser realizadas 150 reservas ao mesmo tempo|
+|2 | Somente funcionários autorizados podem acessar as informações sensíveis dos hóspedes|
+|3 | Só hóteis da franquia poderão ser reservados|
+|4 | em situações de alto fluxo de reservas , o sistema precisa apresentar atualizações|
+|5 | O sofwtare em forma de aplicativo só podera ser utilizado por android e IOS|
+|6 | O software em forma  web funcionara em qualquer navegador|
+
