@@ -93,7 +93,7 @@ Relacionamentos e Análise
  |9. |**Política de cancelamento**: Deve incluir uma política clara de cancelamento e reembolso para garantir a satisfação do cliente e evitar disputas.
  | 10. | **Conformidade regulatória**: Deve cumprir todas as regulamentações e leis locais e internacionais relacionadas à reserva de hotéis e proteção de dados.
 
- ### 3.5. Restrições de Hardware e Software
+ ### 3.4. Restrições de Hardware
  
 |n | Descrição|
 |---------|---------|
