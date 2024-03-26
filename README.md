@@ -71,9 +71,8 @@ Relacionamentos e Análise
 - Tratamento diferenciado da Unidade de Belo Horizonte no agendamento e localização das salas, já que isso não está dentro do escopo deste projeto e não se aplica a todas as unidades
 
 
-| 1 |2 | 3|
-|A | B | c|
 
 
 ### 3.1 
-|REF 01|O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos.|
+| REF 01 |O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos.|
+
