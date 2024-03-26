@@ -79,5 +79,6 @@ Relacionamentos e Análise
 | REF 2  |  O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.
 | ---------------- |  
 
-
-
+| 1 | A | 
+| --------| 
+| 2 | B  |
