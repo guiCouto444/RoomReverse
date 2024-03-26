@@ -69,3 +69,10 @@ Relacionamentos e Análise
 - Atendimento de solicitações por equipamentos que são enviadas na mesma solicitação por sala, pois não faz parte do escopo deste projeto.
 - Pesquisa por corredor e andar, pois este conceito pode não ser relevante ou existir em todas as unidades de hotel.
 - Tratamento diferenciado da Unidade de Belo Horizonte no agendamento e localização das salas, já que isso não está dentro do escopo deste projeto e não se aplica a todas as unidades
+
+
+
+
+### 3.1 
+| REF 01|
+|O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos.|
