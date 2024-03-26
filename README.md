@@ -1,4 +1,4 @@
-## 1. Introdução
+|## 1. Introdução
 
 ### 1.1. Propósito do Documento de Requisitos
 Essa documentação tem como o objetivo simplificar e otimizar o processo de reserva de acomodações para os hospede, proporcionando uma experiência de reserva eficiente e conveniente. Este trabalho de desenvolvimento de software visa cria uma plataforma intuitiva e acessível, que permita aos usuários pesquisar, verificar disponibilidade, selecionar e reserva quartos de hotel de forma fácil e segura.
@@ -75,11 +75,7 @@ Relacionamentos e Análise
 
 ### 3.1 
 | REF 1  | O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos |
-| ---------------- |
+| ---------------- | ----------|
 | REF 2  |  O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.
-| ---------------- |  
+| ---------------- | -----------| 
 
-| 1 | A | 
-| ----| -----|
-| 2 | B  |
-|
