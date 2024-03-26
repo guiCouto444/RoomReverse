@@ -96,7 +96,7 @@ Relacionamentos e Análise
  ### 3.5. Restrições de Hardware e Software
  
 |n | Descrição|
-|....|........|
+|---------|---------|
 |1 | Só podem ser realizadas 150 reservas ao mesmo tempo|
 |2 | Somente funcionários autorizados podem acessar as informações sensíveis dos hóspedes|
 |3 | Só hóteis da franquia poderão ser reservados|
