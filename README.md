@@ -82,3 +82,13 @@ Relacionamentos e Análise
 | REF 2  | O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.| 
 | REF 3 | O usuário acessa a funcionalidade de reserva de quartos de hotel no sistema. |
 
+| 1. | **Segurança de dados**: Deve garantir a segurança dos dados pessoais e financeiros dos usuários.
+ | 2. |**Disponibilidade do sistema**: Deve estar disponível 24 horas por dia, 7 dias por semana, para que os usuários possam fazer reservas a qualquer momento.
+ |3. | **Interface amigável**: Deve ser fácil de usar, mesmo para usuários não técnicos, para facilitar o processo de reserva.
+ |4. | **Integração com sistemas de pagamento**: Deve integrar-se perfeitamente com sistemas de pagamento online para processar transações com segurança.
+ |5. | **Atualização em tempo real**: Deve atualizar em tempo real a disponibilidade de quartos e preços para evitar reservas duplicadas ou conflitos de reserva. 
+|6. |**Compatibilidade com dispositivos**: Deve ser compatível com uma variedade de dispositivos, como computadores, tablets e smartphones, para atender às preferências dos usuários.
+ |7. |**Suporte ao cliente**: Deve oferecer suporte ao cliente eficiente e rápido, seja por meio de chat ao vivo, e-mail ou telefone, para lidar com problemas ou dúvidas dos usuários.
+ |8. |**Gerenciamento de estoque**: Deve controlar com precisão o estoque de quartos disponíveis e impedir reservas além da capacidade do hotel.
+ |9. |**Política de cancelamento**: Deve incluir uma política clara de cancelamento e reembolso para garantir a satisfação do cliente e evitar disputas.
+ | 10. | **Conformidade regulatória**: Deve cumprir todas as regulamentações e leis locais e internacionais relacionadas à reserva de hotéis e proteção de dados.
