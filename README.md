@@ -79,8 +79,8 @@ Relacionamentos e Análise
 
 | ID   |DESCRISÃO  |
 | ---------------- | ----------|
-| REF 1  | O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos. |
-| REF 2  | O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.| 
+|REF 1 | O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos. |
+|REF 2  | O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.| 
 | REF 3  | O usuário acessa a funcionalidade de reserva de quartos de hotel no sistema, geralmente através de uma interface intuitiva e de fácil acesso. | |
 | REF 4  | O sistema apresenta ao usuário uma lista detalhada de quartos disponíveis, exibindo informações cruciais como tipo de quarto, tarifas, disponibilidade de datas, comodidades e imagens, para que o usuário possa tomar uma decisão informada.|
 | REF 5  | Após revisar as opções, o usuário seleciona o quarto desejado e especifica as datas de check-in e check-out desejadas para sua estadia. |
@@ -93,9 +93,9 @@ Relacionamentos e Análise
 | REF 12  |  Após a confirmação da reserva, o sistema registra todas as informações pertinentes no banco de dados, garantindo uma base de dados precisa e atualizada.| 
 | REF 13  |  Após a confirmação da reserva, o sistema registra todas as informações pertinentes no banco de dados, garantindo uma base de dados precisa e atualizada.| 
 | REF 14  |  O quarto reservado é automaticamente marcado como indisponível para outras reservas durante o período selecionado, assegurando que não ocorram sobreposições ou conflitos de reservas para o mesmo quarto no mesmo período de tempo.| 
-| REF 15  | O sistema deve garantir a segurança dos dados de pagamento do usuário durante todo o processo.| 
-| REF 16  |  O processo de pagamento deve ser intuitivo e fácil de usar, minimizando a possibilidade de erros por parte do usuário.|
-| REF 17  |  O sistema deve ser capaz de processar pagamentos rapidamente, garantindo uma experiência de usuário eficiente.|
+| REF 15 | O sistema deve garantir a segurança dos dados de pagamento do usuário durante todo o processo.| 
+| REF 16 |  O processo de pagamento deve ser intuitivo e fácil de usar, minimizando a possibilidade de erros por parte do usuário.|
+| REF 17 |  O sistema deve ser capaz de processar pagamentos rapidamente, garantindo uma experiência de usuário eficiente.|
 
 
 
