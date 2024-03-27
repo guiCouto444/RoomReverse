@@ -87,14 +87,14 @@ Relacionamentos e Análise
 
  ### 3.4. Restrições de Hardware
  
-|n | Descrição|
+| N | Descrição|
 |---------|---------|
-|1 | Só podem ser realizadas 150 reservas ao mesmo tempo|
-|2 | Somente funcionários autorizados podem acessar as informações sensíveis dos hóspedes|
-|3 | Só hóteis da franquia poderão ser reservados|
-|4 | Em situações de alto fluxo de reservas , o sistema precisa apresentar atualizações|
-|5 | O sofwtare em forma de aplicativo só podera ser utilizado por android e IOS|
-|6 | O software em forma  web funcionara em qualquer navegador|
+|**1** | Só podem ser realizadas 150 reservas ao mesmo tempo|
+|**2** | Somente funcionários autorizados podem acessar as informações sensíveis dos hóspedes|
+|**3** | Só hóteis da franquia poderão ser reservados|
+|**4** | Em situações de alto fluxo de reservas , o sistema precisa apresentar atualizações|
+|**5** | O sofwtare em forma de aplicativo só podera ser utilizado por android e IOS|
+|**6** | O software em forma  web funcionara em qualquer navegador|
 
 ### 3.5. Restrições de software
 |n | Descrição|
