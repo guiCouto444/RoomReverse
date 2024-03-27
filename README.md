@@ -98,6 +98,7 @@ Relacionamentos e Análise
 
 ### 3.5. Restrições de software
 |n | Descrição|
+|-----|-----|
 | 1| Segurança de dados: Deve garantir a segurança dos dados pessoais e financeiros dos usuários.|
 | 2|Disponibilidade do sistema: Deve estar disponível 24 horas por dia, 7 dias por semana, para que os usuários possam fazer reservas a qualquer momento.|
 | 3| Interface amigável: Deve ser fácil de usar, mesmo para usuários não técnicos, para facilitar o processo de reserva.|
