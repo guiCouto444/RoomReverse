@@ -79,9 +79,23 @@ Relacionamentos e Análise
 
 | ID   |DESCRISÃO  |
 | ---------------- | ----------|
-| REF 1  | O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos. |
-| REF 2  | O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.| 
-| REF 3 | O usuário acessa a funcionalidade de reserva de quartos de hotel no sistema. |
+| REF  1  | O funcionário deve estar autenticado no sistema com as devidas credenciais e permissões, garantindo que apenas pessoal autorizado possa acessar a funcionalidade de reserva de quartos. |
+| REF  2  | O funcionário deve ter acesso à lista de quartos disponíveis e suas informações para poder fazer escolhas informadas durante o processo de reserva em nome dos clientes.| 
+| REF 3 | O usuário acessa a funcionalidade de reserva de quartos de hotel no sistema, geralmente através de uma interface intuitiva e de fácil acesso. | |
+| REF 4 | O sistema apresenta ao usuário uma lista detalhada de quartos disponíveis, exibindo informações cruciais como tipo de quarto, tarifas, disponibilidade de datas, comodidades e imagens, para que o usuário possa tomar uma decisão informada.|
+| REF 5 | Após revisar as opções, o usuário seleciona o quarto desejado e especifica as datas de check-in e check-out desejadas para sua estadia. |
+| REF 6 | O sistema realiza uma verificação em tempo real para garantir a disponibilidade do quarto escolhido durante o período selecionado, evitando possíveis conflitos de reservas.
+| REF 7 | Caso o quarto esteja disponível, o sistema solicita ao usuário que revise cuidadosamente todas as informações da reserva, incluindo datas, tarifas e qualquer requisito especial.|
+| REF 8 | Após confirmar os detalhes da reserva, o usuário procede à confirmação final, indicando sua intenção de garantir a reserva.|
+| REF 9 | O sistema processa a reserva instantaneamente e fornece ao usuário um número de confirmação único, garantindo a segurança e a validade da transação.| 
+| REF 10 | Se o quarto selecionado não estiver disponível para as datas selecionadas, o sistema notifica o usuário e oferece opções alternativas de quartos ou datas.| 
+| REF 11 | Em seguida, o sistema oferece opções alternativas ao usuário, apresentando uma lista de quartos semelhantes ou disponíveis em datas alternativas que atendam às suas necessidades.|
+| REF 12 | | Após a confirmação da reserva, o sistema registra todas as informações pertinentes no banco de dados, garantindo uma base de dados precisa e atualizada.| 
+| REF 13 | | Após a confirmação da reserva, o sistema registra todas as informações pertinentes no banco de dados, garantindo uma base de dados precisa e atualizada.| 
+| REF 14 | | O quarto reservado é automaticamente marcado como indisponível para outras reservas durante o período selecionado, assegurando que não ocorram sobreposições ou conflitos de reservas para o mesmo quarto no mesmo período de tempo.| 
+| REF 15 | | O sistema deve garantir a segurança dos dados de pagamento do usuário durante todo o processo.| 
+| REF 16 | | O processo de pagamento deve ser intuitivo e fácil de usar, minimizando a possibilidade de erros por parte do usuário.|
+| REF 17 | | O sistema deve ser capaz de processar pagamentos rapidamente, garantindo uma experiência de usuário eficiente.|
 
 
 
